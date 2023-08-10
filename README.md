@@ -1,3 +1,3 @@
 # Exercicio2
 
-Este repositório contém o exercício 2 de Java desenvolvido por Eduardo Gonçalves. 
+Este repositório contém a resolução do exercício 2 de Java desenvolvido por Eduardo Gonçalves. 
